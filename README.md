@@ -16,4 +16,4 @@
 ## 📸 Social Networks
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](t.me/maksikbig)
 ![gmail](https://img.shields.io/badge/-gmail-030303?style=for-the-badge&logo=gmail&link=)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maxim-arkhipenko-195806327/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/markhipenko/)
