@@ -1,8 +1,6 @@
 ## 🧑‍💻 Technologies
 ![go](https://img.shields.io/badge/-Go-030303?style=for-the-badge&logo=go&logoColor=blue)
 ![gin](https://img.shields.io/badge/-gin-030303?style=for-the-badge&logo=gin)
-![java](https://img.shields.io/badge/-Java-030303?style=for-the-badge&logo=coffeescript&logoColor=brown)
-![spring](https://img.shields.io/badge/-Spring-030303?style=for-the-badge&logo=spring)
 ![github](https://img.shields.io/badge/-github-030303?style=for-the-badge&logo=github)
 ![gitlab](https://img.shields.io/badge/-gitlab-030303?style=for-the-badge&logo=gitlab)
 ![git](https://img.shields.io/badge/-git-030303?style=for-the-badge&logo=git)
